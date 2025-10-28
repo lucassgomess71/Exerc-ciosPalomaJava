@@ -1,0 +1,13 @@
+# Arquivos de build Java
+bin/
+out/
+target/
+*.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema
+*.log
+*.tmp
